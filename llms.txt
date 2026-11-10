@@ -1,0 +1,16 @@
+# log-anomaly-score
+
+> Score anomalies in per-bucket log counts with robust z-scores over a trailing window: median and MAD baselines, spikes, drops, new keys and bounded JSON state Python package `trysac-log-anomaly-score`, import name `log_anomaly_score`, MIT licensed,
+> Python >= 3.10, no runtime dependencies.
+
+## Docs
+
+- [README](README.md): problem, install, usage example
+- [AGENTS](AGENTS.md): commands, folder map, conventions, limits
+- [Architecture](docs/ARCHITECTURE.md): shape of the package and its public API
+- [Testing](docs/TESTING.md): how to run and extend the tests
+
+## Optional
+
+- [Stack](docs/STACK.md): tools used and discarded
+- [Changelog](CHANGELOG.md): release history
