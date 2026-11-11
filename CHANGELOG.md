@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added log-anomaly-score: robust median/MAD anomaly scoring for per-bucket log counts with bounded state, JSON persistence, and CLI.
 - Initial project structure from the factory utility template.
